@@ -1,0 +1,9 @@
+venv/
+.vscode
+logs/
+RAG_Medcal_Chatbot.egg-info
+.env
+*/__pycache__
+*/*/__pycache__
+RAG_Medical_Chatbot.egg-info
+*/vectorstore/
